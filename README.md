@@ -1,1 +1,6 @@
 # Final-Project
+
+ENCODER: SAAD, EARL M.
+MEMBER: MONGAYA, AKIKO
+        LAMARCA, MIKE
+        SEBASTIAN, AISLE
