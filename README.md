@@ -1,4 +1,3 @@
-# Final-Project
 
 ENCODER: SAAD, EARL M.
 MEMBER: MONGAYA, AKIKO
